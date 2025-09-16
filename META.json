@@ -1,0 +1,61 @@
+{
+  "category": "task-queues",
+  "created_date": "2025-09-15T22:48:57.560237",
+  "default_ports": [
+    80,
+    443,
+    7419
+  ],
+  "dependencies": [],
+  "description": "faktory is a free and open-source job server. Faktory provides language-agnostic persistent background job server",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/task-queues/faktory",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/task-queues/faktory",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:57.560256",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "faktory",
+  "repository_url": "https://github.com/howtomgr/faktory",
+  "spec_version": "2.0",
+  "subcategory": "task-queues",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "task-queues",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "faktory Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/task-queues/faktory"
+}
